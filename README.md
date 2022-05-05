@@ -11,7 +11,7 @@ There are 2 main modules within main.py:
 
 ### Set up
 
-Create a result input file and plotting input file in the csv format. Define the path as instructed withhin main.py
+Create a result input file and plotting input file in the csv format. Define the path as instructed within main.py
 
 ### Conducting the Analysis 
 
