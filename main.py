@@ -275,6 +275,7 @@ def chip_combined_plotter():
 
 
 if __name__ == '__main__':
+    # Start with Analyser then Plotter
     print("a: Analyser , b: Plotter")
     program = input("Which module would you like to use? (a/b)")
     if program == 'a':

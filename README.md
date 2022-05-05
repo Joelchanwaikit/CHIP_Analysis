@@ -30,7 +30,7 @@ Repeat the cells after the file upload to produce other combinations of images
 
 ## Input formatting 
 
-The programe is optimised for the Cq results file from a Biorad machine but should be able to accept other machines with minor adjustments to column names 
+The program is optimised for the Cq results file from a Biorad machine but should be able to accept other machines with minor adjustments to column names 
 An example data has been provided for input to the Analyser module as well as example plotting inputs for the plotting module 
 Take note that the example data is not real and are not results of actual scientific experiments.
 
