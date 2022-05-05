@@ -7,6 +7,9 @@ There are 2 main modules within main.py:
 1) ChIP Analyser which initially analyses Cq Data
 2) ChIP Plotter which plots the data, with an option for comparing 2 or 4 samples at the same time
 
+### Example Graph Output
+![image](https://user-images.githubusercontent.com/64132598/166897170-c988d92f-54fd-4cb1-b813-f9bebfca4490.png)
+
 ## Usage 
 
 ### Set up
@@ -36,3 +39,15 @@ Take note that the example data is not real and are not results of actual scient
 
 Target Name should include the primer name 
 Sample Name should include the sample name and the target gene, with a space seperating them
+
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature) 
+
+Commit your Changes (git commit -m 'Add some AmazingFeature') 
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
