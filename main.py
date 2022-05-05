@@ -1,8 +1,10 @@
-import pandas as pd
-import numpy as np
 import math
 import os
+
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
 
 def chip_analyser():
     # 1 Determine Dilution Factor
@@ -136,8 +138,8 @@ def chip_analyser():
     # If only 1 input type, you can use the file directly as input for the plotter
     # If you have 2 or more input types, aggregate the data on a singular CSV file for the plotter
 
-def chip_plotter():
 
+def chip_plotter():
     # 1 Read the file, user to define path on set up
     df = pd.read_csv(r"C:\Users\joelc\OneDrive\Desktop\Input\CHIP_Plottinginputs.csv")
 
@@ -193,8 +195,8 @@ def chip_plotter():
     if repeat == 'y':
         chip_plotter()
 
-def chip_combined_plotter():
 
+def chip_combined_plotter():
     # 1 Read the file, user to define path on set up
     df = pd.read_csv(r"C:\Users\joelc\OneDrive\Desktop\Input\CHIP_Plottinginputs.csv")
 
@@ -290,5 +292,3 @@ if __name__ == '__main__':
             print("Invalid Input")
     else:
         print("Invalid input")
-
-
