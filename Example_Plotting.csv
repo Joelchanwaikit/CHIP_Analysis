@@ -1,0 +1,13 @@
+,Samples,dCQ,Std,IP/IN (%),upper_bound,lower_bound,sample,target,primer
+0, ko  sirt1  promoter ,12.8718906,0.185,0.013340584,0.015165802,0.011735032, ko , sirt1 , promoter 
+1, ko  sirt1  Intron ,11.6668906,0.16,0.030755017,0.034362185,0.027526511, ko , sirt1 , Intron 
+2, ko  sirt1  Exon ,11.7818906,0.075,0.028398639,0.02991402,0.026960024, ko , sirt1 , Exon 
+3, ko  sirt1  PolyA ,11.1668906,0.14,0.043494162,0.04792644,0.039471786, ko , sirt1 , PolyA 
+4, ko  sirt1  Pause ,12.2218906,0.205,0.02093362,0.024129897,0.018160725, ko , sirt1 , Pause 
+5, ko  sirt1  Non-coding ,12.5068906,0.06,0.017181093,0.017910701,0.016481206, ko , sirt1 , Non-coding 
+6, ev  sirt1  promoter ,12.3918906,0.035,0.018606695,0.019063616,0.018160725, ev , sirt1 , promoter 
+7, ev  sirt1  Intron ,11.4418906,0.125,0.035945764,0.039199134,0.032962411, ev , sirt1 , Intron 
+8, ev  sirt1  Exon ,11.2818906,0.225,0.04016174,0.046940128,0.034362185, ev , sirt1 , Exon 
+9, ev  sirt1  PolyA ,11.2518906,0.295,0.041005624,0.050309184,0.033422549, ev , sirt1 , PolyA 
+10, ev  sirt1  Pause ,12.0118906,0.355,0.02421367,0.030968935,0.018931934, ev , sirt1 , Pause 
+11, ev  sirt1  Non-coding ,12.4768906,0.19,0.017542104,0.020011396,0.015377509, ev , sirt1 , Non-coding 
