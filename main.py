@@ -65,6 +65,7 @@ def chip_analyser():
     TargetsID_input = list(input("Name of target genes, separated by comma").lower().split(','))
     PrimerID_input = list(set(list(df.Target)))
     SamplesID_input = list(input("Name of Samples , separated by comma").lower().split(','))
+    # 7b. putting space to diff eg P53 vs SHP53 forcing uniqueness
     TargetsID = [x.center(len(x) + 2) for x in TargetsID_input]
     PrimerID = [x.center(len(x) + 2) for x in PrimerID_input]
     SamplesID = [x.center(len(x) + 2) for x in SamplesID_input]
