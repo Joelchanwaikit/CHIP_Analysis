@@ -36,3 +36,12 @@ Take note that the example data is not real and are not results of actual scient
 
 Target Name should include the primer name 
 Sample Name should include the sample name and the target gene, with a space seperating them
+
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
