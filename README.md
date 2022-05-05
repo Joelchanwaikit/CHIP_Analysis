@@ -7,6 +7,9 @@ There are 2 main modules within main.py:
 1) ChIP Analyser which initially analyses Cq Data
 2) ChIP Plotter which plots the data, with an option for comparing 2 or 4 samples at the same time
 
+### Example Graph Output
+![image](https://user-images.githubusercontent.com/64132598/166897170-c988d92f-54fd-4cb1-b813-f9bebfca4490.png)
+
 ## Usage 
 
 ### Set up
